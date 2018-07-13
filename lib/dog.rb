@@ -1,4 +1,4 @@
-Class Dog
+class Dog
   def new
   end
 end
